@@ -19,4 +19,6 @@
 
 ● [Mailcasting Application]:(https://github.com/Chandramohan671/Mailcasting-Application) Its a Java based web application. Technologies used are Java, JSP, Servlet, MySQL workbench. Tomcat server is used. Same like Gmail the normal text messages can be sent & received through this application.
 
+● [Home-Security-Surveillance-using-IOT]:(https://github.com/Chandramohan671/Home-Security-Surveillance-using-IOT) IOT based mini project senses the new object and capture the image using raspberry Pi camera module , send it to gmail. The SMTP protocol is used for mail triggering.
+
 
