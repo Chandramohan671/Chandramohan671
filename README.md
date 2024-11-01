@@ -28,6 +28,8 @@
 
 ● [Home-Security-Surveillance-using-IOT](https://github.com/Chandramohan671/Home-Security-Surveillance-using-IOT/) IOT based mini project senses the new object and capture the image using raspberry Pi camera module , send it to gmail. The SMTP protocol is used for mail triggering.
 
+● [Building Collapse Alert System System Uisng IOT](https://drive.google.com/drive/folders/1LB1khN7cyjFaWYvBNLm_Bvi6d3FCt3dY) **(Final Year Project)** Its a IOT based health monitoring system of structures like building, bridges. It sense risky conditions like vibration, bending, displacement, compressions stick to the surface. The system alert the structure condition through alert notification through mobile and buzzer alert also. An LED indicator will update the status.
+
 ● [Fire-Accident-Safety-Systems-using-IOT](https://github.com/Chandramohan671/Fire-Accident-Safety-Systems-using-IOT/) It detects the fire accident and alert the surroundings using buzzer & mobile alert notification, provide immediate postcautions using water supply to reduce the effects.
 
 
