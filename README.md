@@ -8,13 +8,17 @@
  [Let's Connect: LinkedIn]: (https://www.linkedin.com/in/chandramohan-s-b5b345200/)
 
 ## **Skills**:
+
+● 💻 SAP ABAP
+
+● ⚙️🌐 SAP ERP
+
+● 🤝🏼 SAP CRM
+
 ● ☕ Java
 
 ● 👨🏽‍💻 Problem Solving
 
-● 💻⚙️ SAP
-
-● 🤝🏼 CRM
 
 ## Projects
 
