@@ -7,8 +7,10 @@ SAP ERP | SAP ABAP | SAP CRM | Java | Problem Solving
  
  [Let's Connect: LinkedIn]: (https://www.linkedin.com/in/chandramohan-s-b5b345200/)
 
-  **Skills**:
-  ☕     Java
-  👨🏽‍💻     Problem Solving 
-  💻⚙️  SAP
+#**Skills**:
+● ☕ Java
+● 👨🏽‍💻 Problem Solving
+● 💻⚙️ SAP
+● 🤝🏼 CRM
+
   
