@@ -5,5 +5,10 @@ SAP ERP | SAP ABAP | SAP CRM | Java | Problem Solving
  
  💻 **Problem Solver** : Solved 450 plus coding problems, finalist in Code Gladiators 2023 (Codeathon).
  
- [Let's Connect: LinkedIn]: https://www.linkedin.com/in/chandramohan-s-b5b345200/
+ [Let's Connect: LinkedIn]: (https://www.linkedin.com/in/chandramohan-s-b5b345200/)
 
+  **Skills**:
+  ☕     Java
+  👨🏽‍💻     Problem Solving 
+  💻⚙️  SAP
+  
