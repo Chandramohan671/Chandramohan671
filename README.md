@@ -21,4 +21,6 @@
 
 ● [Home-Security-Surveillance-using-IOT]:(https://github.com/Chandramohan671/Home-Security-Surveillance-using-IOT) IOT based mini project senses the new object and capture the image using raspberry Pi camera module , send it to gmail. The SMTP protocol is used for mail triggering.
 
+● [Fire-Accident-Safety-Systems-using-IOT]:(https://github.com/Chandramohan671/Fire-Accident-Safety-Systems-using-IOT) It detects the fire accident and alert the surroundings using buzzer & mobile alert notification, provide immediate postcautions using water supply to reduce the effects.
+
 
