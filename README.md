@@ -5,7 +5,8 @@
  
  💻 **Problem Solver** : Solved 450 plus coding problems, finalist in Code Gladiators 2023 (Codeathon).
  
- [Let's Connect: LinkedIn]: (https://www.linkedin.com/in/chandramohan-s-b5b345200/)
+ [Let's Connect: LinkedIn](https://www.linkedin.com/in/chandramohan-s-b5b345200/)
+ [My Resume](https://drive.google.com/drive/folders/17ibliixWLXW_vB5jvky9EMJLCJx5MTT0)
 
 ## **Skills**:
 
