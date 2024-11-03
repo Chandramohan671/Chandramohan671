@@ -30,10 +30,10 @@
 
      ● ATM Application
      ● Amazon E-commerce Application
-     ● Library Management Application
-     ● Splitwise Application Application
-     ● Train ticket booking Application
-     ● Vehicle rental system Application.
+     ● Library Management System
+     ● Splitwise Application
+     ● Train ticket booking System
+     ● Vehicle rental system.
 
 ● [Mailcasting Application](https://github.com/Chandramohan671/Mailcasting-Application/) Its a Java based web application. Technologies used are Java, JSP, Servlet, MySQL workbench. Tomcat server is used. Same like Gmail the normal text messages can be sent & received through this application.
 
