@@ -26,7 +26,7 @@
 
 ### Java Based Projects
 
-● [Low Level Design Java Console Applications](https://github.com/Chandramohan671/Java-Low-Level-Design-Applications/) I have developed a six Java based console applications for ATM, Amazon E-commerce, Library Management, Splitwise Application, Train ticket booking, Vehicle rental system using Java and OOPS concepts.
+● [Low Level Design Java Console Applications](https://github.com/Chandramohan671/Java-Low-Level-Design-Applications/) I have developed a six Java based console applications for ATM, Amazon E-commerce, Library Management, Splitwise Application, Train ticket booking, Vehicle rental system using Java, Data Structures & Algorithms and OOPS concepts.
 
      ● ATM
      ● Amazon E-commerce
