@@ -3,7 +3,7 @@
 
  💡 **SAP Enthusiast** : Skilled in SAP ABAP, SAP CRM, Business Process Flows, SAP Gateway, Odata Service, Web Client UI.
  
- 💻 **Problem Solver** : Solved 450 plus coding problems, finalist in Code Gladiators 2023 (Codeathon).
+ 💻 **Problem Solver** : Solved 450 plus coding problems in various Programming Platforms, finalist in Code Gladiators 2023 (Codeathon).
  
  [Let's Connect: LinkedIn](https://www.linkedin.com/in/chandramohan-s-b5b345200/)
  
